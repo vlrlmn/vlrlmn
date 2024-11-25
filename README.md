@@ -24,10 +24,11 @@ Welcome to my GitHub profile repository!
 
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?vlrlmn=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?vlrlmn=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?vlrlmn=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlrlmn&theme=github_dark" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlrlmn&theme=github_dark" alt="Most Commit Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlrlmn&theme=github_dark" alt="Stats"/>
 </div>
+
 
 ---
 
