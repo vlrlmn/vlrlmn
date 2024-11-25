@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**vlrlmn/vlrlmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository!  
 
-Here are some ideas to get you started:
+💻 **About Me:**  
+I am a future backend developer focusing on **C/C++**, **Python**, and **Unix systems**.  
+Currently, I’m exploring technologies like **Docker**, **Django**, and **SwiftUI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Python, SwiftUI  
+- **Tools:** Git, CMake, Makefile, Django  
+- **Other Skills:** Linux, Virtualization, Unix Systems  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-lomakina-264b4612a/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:lomakina.valerie@gmail.com)
