@@ -6,14 +6,14 @@ Welcome to my GitHub profile repository!
 I am a future backend developer focusing on **C/C++**, **Python**, and **Unix systems**.  
 Currently, I’m exploring technologies like **Docker**, **Django**, and **SwiftUI**.
 
----
+--
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Python, SwiftUI  
 - **Tools:** Git, CMake, Makefile, Django  
 - **Other Skills:** Linux, Virtualization, Unix Systems  
 
----
+--
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-lomakina-264b4612a/)  
