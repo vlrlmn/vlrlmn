@@ -31,10 +31,8 @@ Welcome to my GitHub profile repository!
 
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlrlmn&theme=github_dark" alt="Profile Details"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlrlmn&theme=github_dark" alt="Most Commit Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlrlmn&theme=github_dark" alt="Stats"/>
-</div> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlrlmn&theme=aura" alt="Repos per language"/>
+</div>
 
 
 ---
