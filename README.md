@@ -32,7 +32,7 @@ Welcome to my GitHub profile repository!
 ### Repo statictics
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlrlmn&theme=aura_dark" alt="Profile details"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlrlmn&theme=aura" alt="Repos per language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlrlmn&theme=aura_dark" alt="Repos per language"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlrlmn&theme=aura_dark" alt="Stats"/>
 </div>
 
