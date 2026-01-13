@@ -3,9 +3,9 @@
 Welcome to my GitHub profile repository!
 
 💻 **About Me:**  
-- Current student at 42 Abu Dhabi, computer science degree
+- Computer science degree at 42Abu Dhabi
+- Current Machine Learning student at 42AbuDhabi
 - Certified in QA
-- Interested in backend development
 - Have study experience in backend, frontend and QA
 - Reach me by [LinkedIn](https://www.linkedin.com/in/valeria-lomakina-264b4612a/) [email](mailto:lomakina.valerie@gmail.com)
 
